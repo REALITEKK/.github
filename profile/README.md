@@ -2,7 +2,7 @@
 
 **REALITEK – L’avenir de la tech en action.**  
 
-Realitek est une association innovante qui explore et développe des projets autour de la **réalité virtuelle**, de la **simulation**, du **sport mécanique** et des **technologies immersives**.  
+Realitek est une junior start-up de Epitech Moulins innovante qui explore et développe des projets autour de la **réalité virtuelle**, de la **simulation**, du **sport mécanique** et des **technologies immersives**.  
 Notre mission : rendre la technologie accessible, créative et tournée vers l’avenir.  
 
 
